@@ -1,7 +1,7 @@
 # magento2-featured-products  
 
 <h2> Mannual Installation Instructions 
-<a href="http://www.estoredevs.com/magento-2-extensions/featured-product-for-magneto2.html">More Detail</a></h2> 
+<a href="http://www.estoredevs.com/magento-2-extensions/featured-product-for-magneto2.html">More Info</a></h2> 
 go to Magento2Project root dir 
 place the plugin under following Directory  :<br/>
 <strong>/Magento2Project/app/code/</strong>
